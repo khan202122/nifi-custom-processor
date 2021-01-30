@@ -8,3 +8,4 @@ This repo contains a custom NiFi processor (example template) that can be used a
 <br><a href="https://github.com/apache/nifi/tree/master/nifi-nar-bundles/nifi-standard-bundle/nifi-standard-processors/src/main/java/org/apache/nifi/processors/standard">NiFi Standard Processors Page</a>
 <br><a href="https://github.com/jfrazee/awesome-nifi">NiFi Github Page (jfrazee)</a>
 </p>
+this. repo is good
